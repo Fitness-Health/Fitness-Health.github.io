@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://how-healthy.com/sitemap.xml
+Sitemap: https://fitness-health.github.io/sitemap.xml
